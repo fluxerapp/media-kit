@@ -1,3 +1,7 @@
+## 1.3.9
+
+- build: bump libmpv
+
 ## 1.3.8
 
 - build: AGP 8.13.0

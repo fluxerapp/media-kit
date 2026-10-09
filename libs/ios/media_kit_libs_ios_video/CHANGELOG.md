@@ -1,3 +1,7 @@
+## 1.1.6
+
+- build: bump libmpv
+
 ## 1.1.5
 
 - feat: add Swift Package Manager support
